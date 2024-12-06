@@ -1,0 +1,105 @@
+.home-container {
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .header h1, .header h2, .header h3, .header p {
+    margin: 10px 0;
+  }
+  
+  .fetch-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .fetch-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .error-message {
+    color: #e74c3c;
+    text-align: center;
+    margin: 10px 0;
+  }
+  
+  .location-details, .nearby-places {
+    margin: 20px 0;
+  }
+  
+  .location-details p, .nearby-places ul {
+    margin: 5px 0;
+  }
+  
+  .nearby-places ul {
+    padding-left: 20px;
+    list-style-type: disc;
+  }
+  .distance {
+    font-size: 0.9em;
+    color: #555;
+  }
+  .home-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .fetch-button {
+    margin: 20px 0;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .fetch-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
+  .error-message {
+    color: red;
+    text-align: center;
+  }
+  
+  .distance {
+    font-size: 0.9em;
+    color: #555;
+  }
+      
