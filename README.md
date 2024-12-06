@@ -32,7 +32,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/GetLocation.git
+git clone https://github.com/Mahigavale/GetLocation.git
 cd GetLocation
 Install dependencies:
 
